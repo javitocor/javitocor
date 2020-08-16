@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Javier Correas</h1>
+<h1 align="center">Xin chào 👋, I'm Javier Correas</h1>
 <h3 align="center">A passionate Full-Stack developer from Barcelona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javitocor" alt="javitocor" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🔭 I’m currently working on **something cool 😉**
+
+- 🌱 I’m currently learning **Node.js and Express.js**
 
 - 👨‍💻 All of my projects are available at [https://javitocor.github.io/My-Portfolio/](https://javitocor.github.io/My-Portfolio/)
 
