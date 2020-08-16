@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Rails, React, JS...try me!**
 
-- 📫 How to reach me **javitocor@gmail.com**
+- 📫 How to reach me [@JavierCorreas4](https://twitter.com/JavierCorreas4)
 
 - ⚡ Fun fact **Chess Lover, Tai Chi newbie**
 
