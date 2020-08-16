@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Chess Lover, Tai Chi newbie**
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
