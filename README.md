@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://javitocor.github.io/My-Portfolio/](https://javitocor.github.io/My-Portfolio/)
 
-- 📝 I regulary write articles on [Medium and Hackernoon](Medium and Hackernoon)
+- 📝 I regulary write articles on **Medium and Hackernoon**
 
 - 💬 Ask me about **Rails, React, JS...try me!**
 
