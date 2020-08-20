@@ -18,7 +18,6 @@
 - ⚡ Fun fact **Chess Lover, Tai Chi newbie**
 
 ### Blog posts
-[![Javier Correas Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=javitocor&limit=4&type=horizontal)](https://medium.com/@javitocor)
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@javitocor/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@javitocor/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@javitocor/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@javitocor/1" alt="Recent Article 1"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@javitocor/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@javitocor/3" alt="Recent Article 3"> 
