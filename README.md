@@ -1,3 +1,19 @@
+<p align="center">
+  <img title="Always on Time" height=90
+    src="https://cdn.shopify.com/s/files/1/0247/0877/products/Always_on_time_-_resize_large.jpg?v=1482371286">
+  <img title="Supportive" height=100
+    src="https://www.graphicsprings.com/filestorage/stencils/83d00c27a054c498640deec554233123.png?width=500&height=500">
+  <img title="Autodidact" height=90 src="https://assets.bigcartel.com/theme_images/2426761/autodidactshirt.png">
+  <img title="Positive Behaviour" height=100
+    src="https://i.pinimg.com/originals/c2/d7/9c/c2d79c2955a429eb7eb4fecbdd2d3d62.jpg">
+  <img title="Open To Communication" height=100
+    src="https://logosolusa.com/wp-content/uploads/parser/Open-Communication-Security-Logo-1.png">
+  <img title="Constructive Feedback Giver & Taker" height=100
+    src="https://www.gallerycollection.com/blog/wp-content/uploads/2016/06/feedback.png">
+  </span>
+</p>
+
+
 <h1 align="center">Xin chào 👋, I'm Javier Correas</h1>
 <h3 align="center">A passionate Full-Stack developer from Barcelona</h3>
 
