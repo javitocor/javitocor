@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **Node.js and Express.js**
+- 🌱 I’m currently learning **AWS deployment with Terraform, Ansible and Python**
 
 - 👨‍💻 All of my projects are available at [https://javitocor.github.io/My-Portfolio/](https://javitocor.github.io/My-Portfolio/)
 
@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Rails, React, JS...try me!**
 
-- 📫 How to reach me [@JavierCorreas4](https://twitter.com/JavierCorreas4)
+- 📫 How to reach me [Twitter](https://twitter.com/JavierCorreas4)
 
 - ⚡ Fun fact **Chess Lover, Tai Chi newbie**
 
