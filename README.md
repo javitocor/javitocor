@@ -23,11 +23,11 @@
 
 - 🌱 I’m currently learning **AWS deployment with Terraform, Ansible and Python**
 
-- 👨‍💻 All of my projects are available at [https://javitocor.github.io/My-Portfolio/](https://javitocor.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://javitocor.github.io/My-Portfolio/)
 
 - 📝 I regulary write articles on **Medium and Hackernoon**
 
-- 💬 Ask me about **Rails, React, JS...try me!**
+- 💬 Ask me about **Rails, React, JS, Express, Algorithms & Data Structures...try me!**
 
 - 📫 How to reach me [Twitter](https://twitter.com/JavierCorreas4)
 
